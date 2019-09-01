@@ -1,0 +1,71 @@
+﻿生成启动时间为 2019/8/31 星期六 18:01:41。
+     1>项目“C:\Users\Administrator\Desktop\VsPro\Ribbon\Ribbon\Ribbon.vcxproj”在节点 2 上(Build 个目标)。
+     1>QtRccSetDependencies:
+         "E:\Qt\Qt5.10.0\5.10.0\msvc2015_64\bin\rcc.exe" --list "Ribbon.qrc" > "x64\Release\rcc_list.txt" 2> nul
+       ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IE:\Qt\Qt5.10.0\5.10.0\msvc2015_64\include /I.\GeneratedFiles\Release /IE:\Qt\Qt5.10.0\5.10.0\msvc2015_64\include\QtCore /IE:\Qt\Qt5.10.0\5.10.0\msvc2015_64\include\QtGui /IE:\Qt\Qt5.10.0\5.10.0\msvc2015_64\include\QtANGLE /IE:\Qt\Qt5.10.0\5.10.0\msvc2015_64\include\QtWidgets /nologo /W1 /WX- /MP /O2 /D UNICODE /D _UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt Ribbon.cpp
+         Ribbon.cpp
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\VsPro\Ribbon\x64\Release\\Ribbon.exe" /NOLOGO /LIBPATH:E:\Qt\Qt5.10.0\5.10.0\msvc2015_64\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\Administrator\Desktop\VsPro\Ribbon\x64\Release\Ribbon.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\VsPro\Ribbon\x64\Release\Ribbon.lib" /MACHINE:X64 x64\Release\FramelessHelper.obj
+         x64\Release\main.obj
+         x64\Release\MenuItemWidget.obj
+         x64\Release\Ribbon.obj
+         x64\Release\SARibbonApplicationButton.obj
+         x64\Release\SARibbonBar.obj
+         x64\Release\SARibbonButtonGroupWidget.obj
+         x64\Release\SARibbonCategory.obj
+         x64\Release\SARibbonCategoryLayout.obj
+         x64\Release\SARibbonCheckBox.obj
+         x64\Release\SARibbonComboBox.obj
+         x64\Release\SARibbonContextCategory.obj
+         x64\Release\SARibbonControlButton.obj
+         x64\Release\SARibbonCtrlContainer.obj
+         x64\Release\SARibbonDrawHelper.obj
+         x64\Release\SARibbonElementCreateDelegate.obj
+         x64\Release\SARibbonElementManager.obj
+         x64\Release\SARibbonGallery.obj
+         x64\Release\SARibbonGalleryGroup.obj
+         x64\Release\SARibbonGalleryItem.obj
+         x64\Release\SARibbonLineEdit.obj
+         x64\Release\SARibbonMainWindow.obj
+         x64\Release\SARibbonMenu.obj
+         x64\Release\SARibbonPannel.obj
+         x64\Release\SARibbonPannelOptionButton.obj
+         x64\Release\SARibbonQuickAccessBar.obj
+         x64\Release\SARibbonSeparatorWidget.obj
+         x64\Release\SARibbonStackedWidget.obj
+         x64\Release\SARibbonTabBar.obj
+         x64\Release\SARibbonToolButton.obj
+         x64\Release\SAWindowButtonGroup.obj
+         x64\Release\qrc_Ribbon.obj
+         x64\Release\moc_Ribbon.obj
+         x64\Release\moc_FramelessHelper.obj
+         x64\Release\moc_SARibbonApplicationButton.obj
+         x64\Release\moc_SARibbonBar.obj
+         x64\Release\moc_SARibbonButtonGroupWidget.obj
+         x64\Release\moc_SARibbonCategory.obj
+         x64\Release\moc_MenuItemWidget.obj
+         x64\Release\moc_SAWindowButtonGroup.obj
+         x64\Release\moc_SARibbonToolButton.obj
+         x64\Release\moc_SARibbonTabBar.obj
+         x64\Release\moc_SARibbonStackedWidget.obj
+         x64\Release\moc_SARibbonSeparatorWidget.obj
+         x64\Release\moc_SARibbonQuickAccessBar.obj
+         x64\Release\moc_SARibbonPannelOptionButton.obj
+         x64\Release\moc_SARibbonPannel.obj
+         x64\Release\moc_SARibbonMenu.obj
+         x64\Release\moc_SARibbonMainWindow.obj
+         x64\Release\moc_SARibbonLineEdit.obj
+         x64\Release\moc_SARibbonGalleryGroup.obj
+         x64\Release\moc_SARibbonGallery.obj
+         x64\Release\moc_SARibbonCtrlContainer.obj
+         x64\Release\moc_SARibbonControlButton.obj
+         x64\Release\moc_SARibbonContextCategory.obj
+         x64\Release\moc_SARibbonComboBox.obj
+         x64\Release\moc_SARibbonCheckBox.obj
+         Ribbon.vcxproj -> C:\Users\Administrator\Desktop\VsPro\Ribbon\x64\Release\Ribbon.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\VsPro\Ribbon\Ribbon\Ribbon.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:04.13

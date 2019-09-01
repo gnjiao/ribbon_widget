@@ -1,0 +1,150 @@
+﻿生成启动时间为 2019/8/26 星期一 21:26:00。
+     1>项目“C:\Users\Administrator\Desktop\VsPro\Ribbon\Ribbon\Ribbon.vcxproj”在节点 2 上(Build 个目标)。
+     1>QtRccSetDependencies:
+         "E:\Qt\Qt5.10.0\5.10.0\msvc2015_64\bin\rcc.exe" --list "Ribbon.qrc" > "x64\Debug\rcc_list.txt" 2> nul
+       QtWork:
+         Rcc'ing Ribbon.qrc...
+         Moc'ing Ribbon.h...
+         Moc'ing FramelessHelper.h...
+         Moc'ing SARibbonApplicationButton.h...
+          RCC: Warning: No resources in 'C:\Users\Administrator\Desktop\VsPro\Ribbon\Ribbon\Ribbon.qrc'.
+         Moc'ing SARibbonBar.h...
+         Moc'ing SARibbonButtonGroupWidget.h...
+         Moc'ing SARibbonCategory.h...
+         Moc'ing SAWindowButtonGroup.h...
+         Moc'ing SARibbonToolButton.h...
+         Moc'ing SARibbonTabBar.h...
+         Moc'ing SARibbonStackedWidget.h...
+         Moc'ing SARibbonSeparatorWidget.h...
+         Moc'ing SARibbonQuickAccessBar.h...
+         Moc'ing SARibbonPannelOptionButton.h...
+         Moc'ing SARibbonPannel.h...
+         Moc'ing SARibbonMenu.h...
+         Moc'ing SARibbonMainWindow.h...
+         Moc'ing SARibbonLineEdit.h...
+         Moc'ing SARibbonGalleryGroup.h...
+         Moc'ing SARibbonGallery.h...
+         Moc'ing SARibbonCtrlContainer.h...
+         Moc'ing SARibbonControlButton.h...
+         Moc'ing SARibbonContextCategory.h...
+         Moc'ing SARibbonComboBox.h...
+         Moc'ing SARibbonCheckBox.h...
+       ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IE:\Qt\Qt5.10.0\5.10.0\msvc2015_64\include /I.\GeneratedFiles\Debug /IE:\Qt\Qt5.10.0\5.10.0\msvc2015_64\include\QtCore /IE:\Qt\Qt5.10.0\5.10.0\msvc2015_64\include\QtGui /IE:\Qt\Qt5.10.0\5.10.0\msvc2015_64\include\QtANGLE /IE:\Qt\Qt5.10.0\5.10.0\msvc2015_64\include\QtWidgets /Zi /nologo /W1 /WX- /MP /Od /D UNICODE /D _UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt FramelessHelper.cpp main.cpp Ribbon.cpp SARibbonApplicationButton.cpp SARibbonBar.cpp SARibbonButtonGroupWidget.cpp SARibbonCategory.cpp SARibbonCategoryLayout.cpp SARibbonCheckBox.cpp SARibbonComboBox.cpp SARibbonContextCategory.cpp SARibbonControlButton.cpp SARibbonCtrlContainer.cpp SARibbonDrawHelper.cpp SARibbonElementCreateDelegate.cpp SARibbonElementManager.cpp SARibbonGallery.cpp SARibbonGalleryGroup.cpp SARibbonGalleryItem.cpp SARibbonLineEdit.cpp SARibbonMainWindow.cpp SARibbonMenu.cpp SARibbonPannel.cpp SARibbonPannelOptionButton.cpp SARibbonQuickAccessBar.cpp SARibbonSeparatorWidget.cpp SARibbonStackedWidget.cpp SARibbonTabBar.cpp SARibbonToolButton.cpp SAWindowButtonGroup.cpp GeneratedFiles\qrc_Ribbon.cpp GeneratedFiles\Debug\moc_Ribbon.cpp GeneratedFiles\Debug\moc_FramelessHelper.cpp GeneratedFiles\Debug\moc_SARibbonApplicationButton.cpp GeneratedFiles\Debug\moc_SARibbonBar.cpp GeneratedFiles\Debug\moc_SARibbonButtonGroupWidget.cpp GeneratedFiles\Debug\moc_SARibbonCategory.cpp GeneratedFiles\Debug\moc_SAWindowButtonGroup.cpp GeneratedFiles\Debug\moc_SARibbonToolButton.cpp GeneratedFiles\Debug\moc_SARibbonTabBar.cpp GeneratedFiles\Debug\moc_SARibbonStackedWidget.cpp GeneratedFiles\Debug\moc_SARibbonSeparatorWidget.cpp GeneratedFiles\Debug\moc_SARibbonQuickAccessBar.cpp GeneratedFiles\Debug\moc_SARibbonPannelOptionButton.cpp GeneratedFiles\Debug\moc_SARibbonPannel.cpp GeneratedFiles\Debug\moc_SARibbonMenu.cpp GeneratedFiles\Debug\moc_SARibbonMainWindow.cpp GeneratedFiles\Debug\moc_SARibbonLineEdit.cpp GeneratedFiles\Debug\moc_SARibbonGalleryGroup.cpp GeneratedFiles\Debug\moc_SARibbonGallery.cpp GeneratedFiles\Debug\moc_SARibbonCtrlContainer.cpp GeneratedFiles\Debug\moc_SARibbonControlButton.cpp GeneratedFiles\Debug\moc_SARibbonContextCategory.cpp GeneratedFiles\Debug\moc_SARibbonComboBox.cpp GeneratedFiles\Debug\moc_SARibbonCheckBox.cpp
+         FramelessHelper.cpp
+         main.cpp
+         Ribbon.cpp
+         SARibbonApplicationButton.cpp
+         SARibbonBar.cpp
+         SARibbonButtonGroupWidget.cpp
+         SARibbonCategory.cpp
+         SARibbonCategoryLayout.cpp
+         SARibbonCheckBox.cpp
+         SARibbonComboBox.cpp
+         SARibbonContextCategory.cpp
+         SARibbonControlButton.cpp
+         SARibbonCtrlContainer.cpp
+         SARibbonDrawHelper.cpp
+         SARibbonElementCreateDelegate.cpp
+         SARibbonElementManager.cpp
+         SARibbonGallery.cpp
+         SARibbonGalleryGroup.cpp
+         SARibbonGalleryItem.cpp
+         SARibbonLineEdit.cpp
+         SARibbonMainWindow.cpp
+         SARibbonMenu.cpp
+         SARibbonPannel.cpp
+         SARibbonPannelOptionButton.cpp
+         SARibbonQuickAccessBar.cpp
+         SARibbonSeparatorWidget.cpp
+         SARibbonStackedWidget.cpp
+         SARibbonTabBar.cpp
+         SARibbonToolButton.cpp
+         SAWindowButtonGroup.cpp
+         qrc_Ribbon.cpp
+         moc_Ribbon.cpp
+         moc_FramelessHelper.cpp
+         moc_SARibbonApplicationButton.cpp
+         moc_SARibbonBar.cpp
+         moc_SARibbonButtonGroupWidget.cpp
+         moc_SARibbonCategory.cpp
+         moc_SAWindowButtonGroup.cpp
+         moc_SARibbonToolButton.cpp
+         moc_SARibbonTabBar.cpp
+         moc_SARibbonStackedWidget.cpp
+         moc_SARibbonSeparatorWidget.cpp
+         moc_SARibbonQuickAccessBar.cpp
+         moc_SARibbonPannelOptionButton.cpp
+         moc_SARibbonPannel.cpp
+         moc_SARibbonMenu.cpp
+         moc_SARibbonMainWindow.cpp
+         moc_SARibbonLineEdit.cpp
+         moc_SARibbonGalleryGroup.cpp
+         moc_SARibbonGallery.cpp
+         moc_SARibbonCtrlContainer.cpp
+         moc_SARibbonControlButton.cpp
+         moc_SARibbonContextCategory.cpp
+         moc_SARibbonComboBox.cpp
+         moc_SARibbonCheckBox.cpp
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\VsPro\Ribbon\x64\Debug\\Ribbon.exe" /NOLOGO /LIBPATH:E:\Qt\Qt5.10.0\5.10.0\msvc2015_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Administrator\Desktop\VsPro\Ribbon\x64\Debug\Ribbon.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\VsPro\Ribbon\x64\Debug\Ribbon.lib" /MACHINE:X64 x64\Debug\FramelessHelper.obj
+         x64\Debug\main.obj
+         x64\Debug\Ribbon.obj
+         x64\Debug\SARibbonApplicationButton.obj
+         x64\Debug\SARibbonBar.obj
+         x64\Debug\SARibbonButtonGroupWidget.obj
+         x64\Debug\SARibbonCategory.obj
+         x64\Debug\SARibbonCategoryLayout.obj
+         x64\Debug\SARibbonCheckBox.obj
+         x64\Debug\SARibbonComboBox.obj
+         x64\Debug\SARibbonContextCategory.obj
+         x64\Debug\SARibbonControlButton.obj
+         x64\Debug\SARibbonCtrlContainer.obj
+         x64\Debug\SARibbonDrawHelper.obj
+         x64\Debug\SARibbonElementCreateDelegate.obj
+         x64\Debug\SARibbonElementManager.obj
+         x64\Debug\SARibbonGallery.obj
+         x64\Debug\SARibbonGalleryGroup.obj
+         x64\Debug\SARibbonGalleryItem.obj
+         x64\Debug\SARibbonLineEdit.obj
+         x64\Debug\SARibbonMainWindow.obj
+         x64\Debug\SARibbonMenu.obj
+         x64\Debug\SARibbonPannel.obj
+         x64\Debug\SARibbonPannelOptionButton.obj
+         x64\Debug\SARibbonQuickAccessBar.obj
+         x64\Debug\SARibbonSeparatorWidget.obj
+         x64\Debug\SARibbonStackedWidget.obj
+         x64\Debug\SARibbonTabBar.obj
+         x64\Debug\SARibbonToolButton.obj
+         x64\Debug\SAWindowButtonGroup.obj
+         x64\Debug\qrc_Ribbon.obj
+         x64\Debug\moc_Ribbon.obj
+         x64\Debug\moc_FramelessHelper.obj
+         x64\Debug\moc_SARibbonApplicationButton.obj
+         x64\Debug\moc_SARibbonBar.obj
+         x64\Debug\moc_SARibbonButtonGroupWidget.obj
+         x64\Debug\moc_SARibbonCategory.obj
+         x64\Debug\moc_SAWindowButtonGroup.obj
+         x64\Debug\moc_SARibbonToolButton.obj
+         x64\Debug\moc_SARibbonTabBar.obj
+         x64\Debug\moc_SARibbonStackedWidget.obj
+         x64\Debug\moc_SARibbonSeparatorWidget.obj
+         x64\Debug\moc_SARibbonQuickAccessBar.obj
+         x64\Debug\moc_SARibbonPannelOptionButton.obj
+         x64\Debug\moc_SARibbonPannel.obj
+         x64\Debug\moc_SARibbonMenu.obj
+         x64\Debug\moc_SARibbonMainWindow.obj
+         x64\Debug\moc_SARibbonLineEdit.obj
+         x64\Debug\moc_SARibbonGalleryGroup.obj
+         x64\Debug\moc_SARibbonGallery.obj
+         x64\Debug\moc_SARibbonCtrlContainer.obj
+         x64\Debug\moc_SARibbonControlButton.obj
+         x64\Debug\moc_SARibbonContextCategory.obj
+         x64\Debug\moc_SARibbonComboBox.obj
+         x64\Debug\moc_SARibbonCheckBox.obj
+         Ribbon.vcxproj -> C:\Users\Administrator\Desktop\VsPro\Ribbon\x64\Debug\Ribbon.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\VsPro\Ribbon\Ribbon\Ribbon.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:48.43
